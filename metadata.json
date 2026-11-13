@@ -1,0 +1,6 @@
+{
+  "name": "Dispatch — AI Job Application Agent",
+  "description": "Autonomous job application workspace that parses postings, audits candidate fit, tailors resume bullets, drafts cover letters, and prepares screening answers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
